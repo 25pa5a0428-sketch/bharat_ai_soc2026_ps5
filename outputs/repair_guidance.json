@@ -1,0 +1,12 @@
+[
+  {
+    "image": "1.jpg",
+    "total_detections": 20,
+    "defect_counts": {
+      "mouse_bite": 20
+    },
+    "generation_seconds": 1806.41,
+    "tokens_per_sec": 0.08,
+    "repair_guidance": "Severity: High\nLikely Root Cause: Mouse bite\nOperational Steps:\n1. Inspect the board for any signs of damage or deformation caused by the mouse bite.\n2. Use a magnifying glass to examine the area where the mouse bit into the board.\n3. Check for any visible damage such as scratches, gouges, or punctures.\n4. If there is visible damage, take photos or videos of the affected areas to document the problem.\n5. Contact the supplier or manufacturer for further assistance if necessary.\n6. Perform a thorough inspection of all components on the board to ensure"
+  }
+]
